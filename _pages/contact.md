@@ -14,16 +14,16 @@ header:
 feature_row:
   - image_path: /assets/images/contact/aravinth.jpg
     alt: "placeholder image 1"
-    title: "Aravinth Muthu, Club Head"
-    excerpt: "A cheesy bio."
+    title: "Hardik Chauhan"
+    excerpt: "Intern, Naver Labs, Korea"
   - image_path: /assets/images/contact/sid.jpg
     alt: "placeholder image 2"
-    title: "Siddharth Ramesh, Club Head"
-    excerpt: "A cheesy bio."
+    title: "Karan Desai"
+    excerpt: "Research Assistant, Georgia Tech, US"
   - image_path: /assets/images/contact/pooja.jpg
     alt: "placeholder image 3"
-    title: "Pooja Kumar, Project Manager"
-    excerpt: "A cheesy bio."
+    title: "Harshit Sharma"
+    excerpt: "Senior Undergrad, IIT Roorkee"
 
     ## Mail Us
     #<form action="https://formspree.io/your@email.com"
