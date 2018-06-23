@@ -23,7 +23,7 @@ author_profile: true
   <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
   <p>{{ item.description }}</p>
 {% endfor %}
-[Read More](/ongoing-projects){: .btn .btn--success}
+<!-- [Read More](/ongoing-projects){: .btn .btn--success} -->
 
 ## [Completed Projects](/completed-projects)
 {% for item in site.completed-projects %}
@@ -33,4 +33,4 @@ author_profile: true
   <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
   <p>{{ item.description }}</p>
 {% endfor %}
-[Read More](/completed-projects){: .btn .btn--success}
+<!-- [Read More](/completed-projects){: .btn .btn--success} -->

@@ -2,6 +2,7 @@
 layout: single
 title: "Auto-Regressive Generative Models[](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)"
 category: machine_learning
+<!-- author: Varun Sundar -->
 description: ""
 mathjax: true
 redirect_to:

@@ -307,7 +307,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      read_time: true
+      read_time: false
       comments: true
       related: true
       use_math: true
@@ -320,7 +320,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      read_time: true
+      read_time: false
       comments: true
       related: true
       use_math: true

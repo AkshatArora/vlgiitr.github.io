@@ -2,13 +2,13 @@
 title: "About"
 layout: single
 permalink: "/about/"
-date: 2018-01-10
+date: 2018-06-23
 classes:
   - landing
   - dark-theme
 header:
   #overlay_color: "#000"
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  <!-- overlay_filter: rgba(255, 0, 0, 0.5) -->
   overlay_image: assets/images/CVI.jpg
   cta_label: "Contact Us"
   cta_url: "/contact/"
@@ -18,7 +18,7 @@ excerpt: "
 "
 intro:
   - excerpt: 'We began as a small reading group in 2017 with the aim of reading and discussing recent and radical Deep Learning papers.'
-<!-- feature_row:
+feature_row:
   - image_path: /assets/images/about/IARC.jpg
     alt: "placeholder image 1"
     title: "Our Inception"
@@ -43,15 +43,16 @@ feature_row4:
     excerpt: 'As a club, we undertake projects ranging about topics from computer vision, deep learning, reinforcement learning and natural language processing. We are actively involved in projects and conduct sessions among our college community in these areas: with the hope of impacting society with bleeding edge technology.'
     url: "/projects/"
     btn_label: "Read More"
-    btn_class: "btn--primary" -->
+    btn_class: "btn--primary"
 ---
 
-<!-- {% include feature_row id="intro" type="center" %}
+ {% include feature_row id="intro" type="justified" %}
 
-{% include feature_row type="center" %}
-
+<!-- {% include feature_row type="center" %} -->
+<!-- 
 {% include feature_row id="feature_row2" type="center" %}
 
 {% include feature_row id="feature_row3" type="center" %}
 
- {% include feature_row id="feature_row4" type="center" %}-->
+ {% include feature_row id="feature_row4" type="center" %}
+ -->

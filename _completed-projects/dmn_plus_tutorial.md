@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Tutorial on Dynamic Memory Network Plus"
-description: "A PyTorch tutorial for implementation of Dynamic Memory Network Plus"
+title: "Dynamic Memory Network Plus"
+description: "A PyTorch tutorial for implementation of Dynamic Memory Network Plus for Visual and Textual Question Answering. The architecture employs unique attention layers that maintain a fixed sequential order with the help of an episodic memory module."
+
 redirect_to:
  - https://github.com/vlgiitr/dmn-plus
 ---
-This is the Pytorch implementation of the paper [Dynamic Memory Network for Visual and Textual Question Answering](https://arxiv.org/abs/1603.01417 "Link to arxiv paper").
 
 <!-- {% include figure image_path="/assets/images/projects/ExpressionMorphing/input.png" description="dwadaw" %} -->
 
