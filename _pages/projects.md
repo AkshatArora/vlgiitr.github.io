@@ -8,9 +8,12 @@ header:
 author_profile: true
 ---
 
-Over the years, we have been able to venture into quite a variety of projects-topics. We present a few of them here.
 
-You may click on the subheadings to view the entire list.
+
+<!-- We will keep adding new projects on this page. -->
+<!-- Over the years, we have been able to venture into quite a variety of projects-topics. We present a few of them here. -->
+
+<!-- You may click on the subheadings to view the entire list. -->
 
 ## [Ongoing Projects](/ongoing-projects)
 {% for item in site.ongoing-projects %}
