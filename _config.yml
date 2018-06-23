@@ -13,20 +13,20 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "PDG"
+title                    : "VLG"
 title_separator          : "-"
-name                     : "Paper Discussion Group"
-description              : "Official site for PDG-IIT Roorkee"
-url                      : "https://pdgiitr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Vision and Language Group"
+description              : "Official site for VLG IIT Roorkee"
+url                      : "https://vlgiitr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : pdgiitr
+repository               : vlgiitr
 teaser                   : "/assets/images/CVI.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : "pdg-iitr" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "vlg-iitr" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,7 +75,7 @@ og_image                 : "/assets/images/CVI.jpg" # Open Graph/Twitter default
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Organization" # Person or Organization (defaults to Person)
-  name                   : "pdgiitr"# If the user or organization name differs from the site's name
+  name                   : "vlgiitr"# If the user or organization name differs from the site's name
   links:
     -  https://www.facebook.com/groups/1890944924568897/ # An array of links to social media profiles
 
@@ -88,13 +88,13 @@ social:
 
 # Site Author
 author:
-  name             : "Paper Discussion Group"
+  name             : "Vision and Language Group"
   avatar           : "/assets/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "IIT Roorkee"
   email            : 
   uri              :
-  forums           : "https://iitmcvg.github.io/forums/"
+  forums           : #"https://iitmcvg.github.io/forums/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "pdgiitr"
+  github           : "vlgiitr"
   gitlab           :
   google_plus      :
   keybase          :
