@@ -259,6 +259,9 @@ collections:
   completed-projects:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -316,6 +319,18 @@ defaults:
   - scope:
       path: ""
       type: completed-projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: false
+      comments: true
+      related: true
+      use_math: true
+# _news
+  - scope:
+      path: ""
+      type: news
     values:
       layout: single
       author_profile: true

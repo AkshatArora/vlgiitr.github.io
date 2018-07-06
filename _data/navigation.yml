@@ -22,8 +22,8 @@ main:
     - title: "Ongoing Projects"
       url: "/ongoing-projects/"
 
-  # - title: "Documentation"
-  #   url: "/documentation/"
+  - title: "Achievements"
+    url: "/news/"
 
   # - title: "Contributing"
   #   url: "/contributing/"
