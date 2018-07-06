@@ -10,6 +10,7 @@ header:
   #overlay_color: "#000"
   <!-- overlay_filter: rgba(255, 0, 0, 0.5) -->
   overlay_image: assets/images/VLG.jpg
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
   cta_label: "Contact Us"
   cta_url: "/contact/"
   caption: "Photo credit: Vipin, IIT Roorkee."
