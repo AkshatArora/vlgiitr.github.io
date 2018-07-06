@@ -9,10 +9,10 @@ classes:
 header:
   #overlay_color: "#000"
   <!-- overlay_filter: rgba(255, 0, 0, 0.5) -->
-  overlay_image: assets/images/CVI.jpg
+  overlay_image: assets/images/VLG.jpg
   cta_label: "Contact Us"
   cta_url: "/contact/"
-  caption: "Photo credit: Ayush, IIT-Madras."
+  caption: "Photo credit: Vipin, IIT Roorkee."
 excerpt: "
 
 "

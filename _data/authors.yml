@@ -2,10 +2,10 @@
 # Usage:
 # author: Billy Rick in front matter.
 
-Varun Sundar:
-  name: "Varun Sundar"
-  uri: "http://varun19299.github.io"
-  email: "varun19299@gmail.com"
+Aarush Gupta:
+  name: "Aarush Gupta"
+  uri: "http://aarushgupta.github.io"
+  email: "agupta1@cs.iitr.ac.in"
   bio: "True peace is in total chaos."
-  avatar: "/assets/avatars/Varun.jpg"
-  twitter: "@varun19299"
+  # avatar: "/assets/avatars/Varun.jpg"
+  twitter: "@c414driu5"

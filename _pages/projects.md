@@ -3,7 +3,7 @@ title: "Projects"
 layout: single
 permalink: "/projects/"
 header:
-  overlay_image: /assets/images/projects/projects.png
+  overlay_image: /assets/images/VLG.jpg
   overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
 author_profile: true
 ---

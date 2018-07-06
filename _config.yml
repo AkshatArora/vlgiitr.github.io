@@ -20,7 +20,7 @@ description              : "Official site for VLG IIT Roorkee"
 url                      : "https://vlgiitr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : vlgiitr
-teaser                   : "/assets/images/CVI.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/VLG.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -70,7 +70,7 @@ facebook:
   username               : 
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/CVI.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/VLG.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -89,7 +89,7 @@ social:
 # Site Author
 author:
   name             : "Vision and Language Group"
-  avatar           : "/assets/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "IIT Roorkee"
   email            : 
