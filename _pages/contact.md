@@ -12,7 +12,7 @@ header:
   cta_label: "Drop us a mail"
   cta_url: "mailto:chauhanhardik23@gmail.com"
 
-feature_row:
+core:
   - image_path: /assets/images/contact/hstm.png
     alt: "placeholder image 3"
     title: "Harshit Sharma"
@@ -64,7 +64,7 @@ feature_row:
     excerpt: "Junior Undergrad, IIT Roorkee"
     is_alum: "False"
 
-feature_row_alum:
+alum:
   - image_path: /assets/images/contact/hardik.png
     alt: "placeholder image 1"
     title: "Hardik Chauhan"
@@ -109,8 +109,8 @@ feature_row_alum:
 
 ## Team
 
-{% include feature_row type="center"%}
+{% include feature_row id="core" type="center"%}
 
 ## Alumni
 
-{% include feature_row_alum type="center"%}
+{% include feature_row id="alum" type="center"%}

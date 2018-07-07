@@ -7,7 +7,6 @@
 <div class="feature__wrapper">
 
   {% for f in feature_row %}
-  {% if f.is_alum contains "False" %}
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
     {% else %}
@@ -45,7 +44,6 @@
         </div>
       </div>
     </div>
-  {% endif %}
   {% endfor %}
 
 </div>
