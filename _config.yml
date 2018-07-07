@@ -262,6 +262,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -278,7 +281,18 @@ defaults:
       share: true
       related: true
       use_math: true
-
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+      use_math: true
   # _pages
   - scope:
       path: ""
