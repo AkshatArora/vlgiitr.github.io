@@ -1,13 +1,13 @@
 {% if include.id %}
-  {% assign feature_row = page[include.id] %}
+  {% assign feature_row_alum = page[include.id] %}
 {% else %}
-  {% assign feature_row = page.feature_row %}
+  {% assign feature_row_alum = page.feature_row_alum %}
 {% endif %}
 
 <div class="feature__wrapper">
 
-  {% for f in feature_row %}
-  {% if f.is_alum contains "False" %}
+  {% for f in feature_row_alum %}
+  {% if f.is_alum contains "True" %}
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
     {% else %}
