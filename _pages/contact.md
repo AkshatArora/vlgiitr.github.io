@@ -64,7 +64,7 @@ core:
     excerpt: "Junior Undergrad, IIT Roorkee"
     is_alum: "False"
 
-alum:
+cofounders:
   - image_path: /assets/images/contact/hardik.png
     alt: "placeholder image 1"
     title: "Hardik Chauhan"
@@ -75,6 +75,8 @@ alum:
     title: "Karan Desai"
     excerpt: "Research Assistant, Georgia Tech, US"
     is_alum: "True"
+
+alum:
   - image_path: /assets/images/contact/ap.png
     alt: "placeholder image 3"
     title: "Aditya Prakash"
@@ -106,6 +108,9 @@ alum:
 <!-- # Meet the Team -->
 
 <!-- <br/> -->
+## Co-founders
+
+{% include feature_row id="cofounders" type="center"%}
 
 ## Team
 
