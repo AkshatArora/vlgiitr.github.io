@@ -38,7 +38,7 @@ core:
     title: "Aarush Gupta"
     excerpt: "Junior Undergrad, IIT Roorkee"
     is_alum: "False"
-  - image_path: /assets/images/contact/nahh.png
+  - image_path: /assets/images/contact/barvin.jpg
     alt: "barvin"
     title: "Abhinaba Bala"
     excerpt: "Junior Undergrad, IIT Roorkee"
