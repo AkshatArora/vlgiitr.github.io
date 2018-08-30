@@ -2,7 +2,7 @@
 layout: single
 title: "Deep Learning Book Chapter 2 Notes"
 category: machine_learning
-description: ""
+description: "Compiled by Dakshit Agrawal"
 mathjax: true
 redirect_to:
  - /assets/posts/DL_Chapter2_Notes.pdf

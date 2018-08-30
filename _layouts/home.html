@@ -3,6 +3,13 @@ layout: archive
 
 ---
 
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_notes | default: "Recently Uploaded Notes" }}</h3>
+
+{% for note in paginator.notes %}
+  {% include archive-single-notes.html %}
+{% endfor %}
+ -->
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
